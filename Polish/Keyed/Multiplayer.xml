@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <!-- Main menu -->
-  <MpMultiplayerButton>Multiplayer</MpMultiplayerButton>
+    <MpMultiplayerButton>Multiplayer</MpMultiplayerButton>
   <MpLoadingError1>Błąd gry wieloosobowej podczas ładowania.</MpLoadingError1>
   <MpLoadingError2>To może doprowadzić do desynchronizacji.</MpLoadingError2>
   <MpLoadingError3>Jest tak prawdopodobnie dlatego, że ta wersja modyfikacji nie jest przeznaczona dla twojej wersji RimWorld.</MpLoadingError3>
   <MpLoadingError4>Zaktualizuj/cofnij wersję moda lub RimWorld.</MpLoadingError4>
   <MpLoadingError5>UWAGA: gra mogła zostać niedawno zaktualizowana i może nie być jeszcze dostępna nowa wersja trybu wieloosobowego.</MpLoadingError5>
 
-  <!-- Ingame -->
-  <MpSimulating>Symulowanie</MpSimulating>
+    <MpSimulating>Symulowanie</MpSimulating>
   <MpSimulatingServer>Symulowanie serwera</MpSimulatingServer>
   <MpLoading>Ładowanie</MpLoading>
   <MpSaving>Zapisywanie</MpSaving>
@@ -24,8 +22,7 @@
   <MpLowestWinsButtonsDesc2>Shift+Spacja, aby zresetować swój głos.</MpLowestWinsButtonsDesc2>
   <MpLowestWinsButtonsDesc3>Host może kliknąć Shift+Click, aby zresetować wszystkie głosy.</MpLowestWinsButtonsDesc3>
 
-  <!-- Ingame Faction Sidebar -->
-  <MpCreateFaction>Stwórz frakcję</MpCreateFaction>
+    <MpCreateFaction>Stwórz frakcję</MpCreateFaction>
   <MpFactionName>Nazwa frakcji</MpFactionName>
   <MpFactionColor>Kolor frakcji</MpFactionColor>
   <MpDefaultMapTime>Domyślny czas mapy</MpDefaultMapTime>
@@ -33,7 +30,7 @@
   <MpDefaultMapTimeDesc2>Zaznaczone: Używa domyślnego czasu startowego, podobnie jak na mapach dla jednego gracza.</MpDefaultMapTimeDesc2>
   <MpDefaultMapTimeDesc3>Odznaczone: Używa obecnego czasu świata.</MpDefaultMapTimeDesc3>
   <MpAsyncTimeDisabled>Można zmienić tylko przy aktywnej opcji asynchronicznej w menu hosta.</MpAsyncTimeDisabled>
-  <MpSettleFaction>Załóż osadę</MpSettleFaction>
+  <MpSettleFaction>Załóż osadę</MpSettleFaction>  
   <MpJoinFaction>Dołącz do frakcji</MpJoinFaction>
   <MpLocateOnMap>Zlokalizuj na mapie świata.</MpLocateOnMap>
   <MpJoin>Dołącz</MpJoin>
@@ -42,20 +39,18 @@
   <MpSelectRandomSite>Wybierz losowe miejsce</MpSelectRandomSite>
   <MpWorldFactions>Frakcje świata</MpWorldFactions>
 
-	<!-- Ingame Quest Tab --> 
+	 
   <MpHideQuestsOn>Tylko moje zadania</MpHideQuestsOn>
   <MpHideQuestsOff>Wszystkie zadania</MpHideQuestsOff>
   <MpHideQuestsDesc>Przełączaj widok między zadaniami wszystkich graczy a zadaniami tylko twojej frakcji.</MpHideQuestsDesc>
   <MpPublicQuest>Każdy może przyjąć to zadanie.</MpPublicQuest>
   <MpQuestDesc>To zadanie należy do {0}{1}</MpQuestDesc>
 
-  <!-- Ticks behind indicator -->
-  <MpTicksBehind>Jesteś {0} ticków za serwerem.</MpTicksBehind>
+    <MpTicksBehind>Jesteś {0} ticków za serwerem.</MpTicksBehind>
   <MpLowerGameSpeed>Rozważ obniżenie prędkości gry.</MpLowerGameSpeed>
   <MpForceCatchUp>Kliknij, aby nadrobić zaległości.</MpForceCatchUp>
 
-  <!-- Disconnected -->
-  <MpWrongProtocol>Błędna wersja protokołu</MpWrongProtocol>
+    <MpWrongProtocol>Błędna wersja protokołu</MpWrongProtocol>
   <MpWrongMultiplayerVersionDesc>Serwer jest hostowany na Multiplayer {0} (protokół {1}). Twoja wersja: {2} (protokół {3})</MpWrongMultiplayerVersionDesc>
   <MpWrongVersionUpdateInfo>Zaktualizuj moda (ponownie zasubskrybuj na Steam).</MpWrongVersionUpdateInfo>
   <MpWrongVersionUpdateInfoHost>Host powinien zaktualizować moda (ponownie zasubskrybować na Steam).</MpWrongVersionUpdateInfoHost>
@@ -78,8 +73,7 @@
   <MpConnectAsUsername>Połączono jako {0}</MpConnectAsUsername>
   <MpBadGamePassword>Błędne hasło do gry</MpBadGamePassword>
 
-  <!-- Chat -->
-  <MpChatButton>Czat</MpChatButton>
+    <MpChatButton>Czat</MpChatButton>
   <MpChatHotkeyInfo>Klawisz skrótu czatu:</MpChatHotkeyInfo>
   <MpPlayerConnected>{0} dołączył</MpPlayerConnected>
   <MpPlayerDisconnected>{0} wyszedł</MpPlayerDisconnected>
@@ -89,8 +83,7 @@
   <MpSteamAcceptDesc>Kliknij, aby zaakceptować</MpSteamAcceptDesc>
   <MpSteamAccepted>Gracz został zaakceptowany</MpSteamAccepted>
 
-  <!-- Ingame ESC screen -->
-  <MpHostServer>Hostuj serwer</MpHostServer>
+    <MpHostServer>Hostuj serwer</MpHostServer>
   <MpConvertToSp>Konwertuj na tryb jednoosobowy</MpConvertToSp>
   <MpConvertToSpWarnHost>Czy na pewno chcesz przekonwertować na grę jednoosobową? Spowoduje to zamknięcie serwera.</MpConvertToSpWarnHost>
   <MpConvertToSpWarn>Czy na pewno chcesz przekonwertować na grę jednoosobową? Opuścisz grę wieloosobową.</MpConvertToSpWarn>
@@ -100,8 +93,7 @@
   <MpGameSaved>Gra zapisana jako {0}</MpGameSaved>
   <MpGameSaveFailed>Nie udało się zapisać gry. Zobacz log, aby uzyskać więcej informacji.</MpGameSaveFailed>
 
-  <!-- Settings -->
-  <MpUsernameSetting>Nazwa użytkownika</MpUsernameSetting>
+    <MpUsernameSetting>Nazwa użytkownika</MpUsernameSetting>
   <MpShowPlayerCursors>Pokazuj kursory graczy</MpShowPlayerCursors>
   <MpAutoAcceptSteam>Automatycznie akceptuj graczy Steam</MpAutoAcceptSteam>
   <MpAutoAcceptSteamDesc>Automatycznie akceptuj wszelkie przychodzące prośby o połączenie ze Steam.</MpAutoAcceptSteamDesc>
@@ -124,13 +116,11 @@
   <MpResetColors>Zresetuj kolory</MpResetColors>
   <MpHideOtherPlayersInColonistBar>Ukryj innych graczy na pasku kolonistów</MpHideOtherPlayersInColonistBar>
   
-  <!-- Ping alert -->
-  <MpAlertPing>Ping</MpAlertPing>
+    <MpAlertPing>Ping</MpAlertPing>
   <MpAlertPingDesc1>Kliknij, aby wyśrodkować kamerę na lokalizacji pingowanej przez: {0}</MpAlertPingDesc1>
   <MpAlertPingDesc2>Shift + klik, aby zamknąć.</MpAlertPingDesc2>
 
-  <!-- Pausing sessions -->
-  <MpDialogsButton>Okna dialogowe</MpDialogsButton>
+    <MpDialogsButton>Okna dialogowe</MpDialogsButton>
   <MpTradingSession>Sesja handlowa</MpTradingSession>
   <MpRitualSession>Sesja przygotowania rytuału</MpRitualSession>
   <MpPsychicRitualSession>Sesja przygotowania rytuału psychicznego</MpPsychicRitualSession>
@@ -141,8 +131,7 @@
   <MpSwitchToMap>Przełącz na mapę</MpSwitchToMap>
   <MpMapPortalSession>Wchodzenie do sesji: {0}</MpMapPortalSession>
 
-  <!-- Connecting -->
-  <MpConnecting>Łączenie</MpConnecting>
+    <MpConnecting>Łączenie</MpConnecting>
   <MpConnectingTo>Łączenie z {0}:{1}</MpConnectingTo>
   <MpConnected>Połączono.</MpConnected>
   <MpJoining>Dołączanie</MpJoining>
@@ -152,15 +141,15 @@
   <MpWaitingForGameData>Oczekiwanie na dane gry</MpWaitingForGameData>
   <MpInvalidAddress>Nieprawidłowy adres</MpInvalidAddress>
   <MpGamePassword>Hasło do gry</MpGamePassword>
+  <MpQuitBeforeAcceptInvite>Aby zaakceptować zaproszenie Steam, wyjdź z bieżącej gry</MpQuitBeforeAcceptInvite>
+  <MpJoinRequestDesc>chce dołączyć do twojej gry</MpJoinRequestDesc>
 
-  <!-- Desynced -->
-  <MpDesynced>Stan gry uległ desynchronizacji.</MpDesynced>
+    <MpDesynced>Stan gry uległ desynchronizacji.</MpDesynced>
   <MpTryResync>Spróbuj zresynchronizować</MpTryResync>
   <MpOpenDesyncFolder>Otwórz folder z informacjami</MpOpenDesyncFolder>
   <MpDesyncedWaiting>Oczekiwanie na dane od hosta</MpDesyncedWaiting>
 
-  <!-- Hosting -->
-  <MpHostTabConnecting>Połączenie</MpHostTabConnecting>
+    <MpHostTabConnecting>Połączenie</MpHostTabConnecting>
   <MpHostTabGameplay>Rozgrywka</MpHostTabGameplay>
   <MpHostDirect>Bezpośrednie</MpHostDirect>
   <MpHostDirectDesc1>Nasłuchuj dołączających graczy na określonych punktach końcowych.</MpHostDirectDesc1>
@@ -221,8 +210,7 @@
   <MpPauseOnLetterAnyThreat>Jakiekolwiek zagrożenie</MpPauseOnLetterAnyThreat>
   <MpPauseOnLetterAnyLetter>Jakakolwiek wiadomość</MpPauseOnLetterAnyLetter>
 
-  <!-- Server browser info buttons -->
-  <MpWebsiteButton>Strona WWW</MpWebsiteButton>
+    <MpWebsiteButton>Strona WWW</MpWebsiteButton>
   <MpDiscordButton>Discord</MpDiscordButton>
   <MpLinkButtonDesc>Kliknij, aby otworzyć:</MpLinkButtonDesc>
   <MpCompatibilityButton>Kompatybilność</MpCompatibilityButton>
@@ -232,25 +220,21 @@
   <MpActiveConfigsButtonDesc1>Ta instancja RimWorld została uruchomiona z plikami konfiguracyjnymi z gry: {0}</MpActiveConfigsButtonDesc1>
   <MpActiveConfigsButtonDesc2>Uruchom ponownie, aby przywrócić poprzednie konfiguracje.</MpActiveConfigsButtonDesc2>
 
-  <!-- Server browser tabs -->
-  <MpLan>LAN</MpLan>
+    <MpLan>LAN</MpLan>
   <MpDirect>Bezpośrednie</MpDirect>
   <MpSteam>Steam</MpSteam>
   <MpHostTab>Host</MpHostTab>
 
-  <!-- Server browser LAN and Direct tabs -->
-  <MpJoinButton>Dołącz</MpJoinButton>
+    <MpJoinButton>Dołącz</MpJoinButton>
   <MpConnectButton>Połącz</MpConnectButton>
   <MpLanSearching>Wyszukiwanie</MpLanSearching>
 
-  <!-- Server browser Steam tab -->
-  <MpNotConnectedToSteam>Nie połączono ze Steam</MpNotConnectedToSteam>
+    <MpNotConnectedToSteam>Nie połączono ze Steam</MpNotConnectedToSteam>
   <MpNoFriendsPlaying>Żadni znajomi nie grają obecnie w RimWorld</MpNoFriendsPlaying>
   <MpPlayingRimWorld>Gra w RimWorld</MpPlayingRimWorld>
   <MpNotInMultiplayer>Nie w trybie wieloosobowym</MpNotInMultiplayer>
 
-  <!-- Save list -->
-  <MpMultiplayerSaves>Zapisy wieloosobowe</MpMultiplayerSaves>
+    <MpMultiplayerSaves>Zapisy wieloosobowe</MpMultiplayerSaves>
   <MpSingleplayerSaves>Zapisy jednoosobowe</MpSingleplayerSaves>
   <MpSaveOutdated>(Nieaktualny)</MpSaveOutdated>
   <MpSaveOutdatedDesc>Ten plik zapisu został utworzony w RimWorld {0}, ale używasz wersji {1}.</MpSaveOutdatedDesc>
@@ -264,8 +248,7 @@
   <MpFileRenameButton>Zmień nazwę</MpFileRenameButton>
   <MpFileRename>Zmień nazwę pliku na</MpFileRename>
   
-  <!-- Mismatch screen -->
-  <MpDataMismatch>Niezgodność danych</MpDataMismatch>
+    <MpDataMismatch>Niezgodność danych</MpDataMismatch>
   <MpConnectAnyway>Połącz mimo to</MpConnectAnyway>
   <MpFixAndRestart>Napraw i uruchom ponownie</MpFixAndRestart>
   <MpMismatchQuit>Wyjdź</MpMismatchQuit>
@@ -317,8 +300,7 @@
   <MpFilesMatch>Pliki są zgodne</MpFilesMatch>
   <MpConfigsMatch>Konfiguracje są zgodne</MpConfigsMatch>
 
-  <!-- Mod compatibility window -->
-  <MpModCompatButton>Kompatybilność Multiplayer</MpModCompatButton>
+    <MpModCompatButton>Kompatybilność Multiplayer</MpModCompatButton>
   <MpModCompatTitle>Kompatybilność modów w trybie wieloosobowym</MpModCompatTitle>
   <MpModCompatLoading>Ładowanie</MpModCompatLoading>
   <MpModCompatLoadingFailed>Ładowanie nie powiodło się.</MpModCompatLoadingFailed>
